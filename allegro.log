@@ -1,0 +1,146 @@
+Zelda Classic v2.50 (Build 29)
+Allocating quest path buffers (4.00k/4.00k)...OK
+Allocating map buffer (1008.84k/1012.84k)... OK
+Allocating combo buffer (5.98k/1018.82k)... OK
+Allocating string buffer (680.00k/1.66M)... OK
+Allocating door combo buffer (159.50k/1.81M)... OK
+Allocating dmap buffer (234.00k/2.04M)... OK
+Allocating combo buffer (1.62M/3.66M)... OK
+Allocating color data buffer (314.11k/3.97M)... OK
+Allocating tile buffer (8.50M/12.47M)... OK
+Allocating trash buffer (97.66k/12.56M)... OK
+Allocating item buffer (31.12k/12.59M)... OK
+Allocating weapon buffer (2.50k/12.59M)... OK
+Allocating guy buffer (70.00k/12.66M)... OK
+Allocating combo class buffer (33.30k/12.70M)... OK
+Initializing Allegro... OK
+Checking Files... OK
+Allocating bitmap buffers... OK
+Loading data files:
+Zelda.Dat...OK
+Fonts.Dat...OK
+SFX.Dat...OK
+Initializing sound driver... Sound driver not available.  Sound disabled.
+Used switch: -fullscreen
+set gfx mode succsessful at -1 8bpp 640 x 480 
+Triplebuffer not available
+Loading saved games... Save file not found.  Creating new save file.OK
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Trying to load /home/marisag/Downloads/Zelda Classic/zelda.nsf
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: 1st.qst...
+
+Decrypting...okay.
+Opening...okay.
+Reading Header...okay.
+Made in ZQuest 250 Beta 29
+Reading Rules...okay.
+Reading Strings...okay.
+Reading Doors...okay.
+Reading DMaps...okay.
+Reading Misc. Data...okay.
+Reading Misc. Colors...okay.
+Reading Game Icons...okay.
+Reading Items...okay.
+Reading Weapons...okay.
+Reading Maps...okay.
+Reading Combos...okay.
+Reading Combo Aliases...okay.
+Reading Color Data...okay.
+Reading Tiles...okay.
+Reading Tunes...okay.
+Reading Cheat Codes...okay.
+Reading Init. Data...okay.
+Reading Custom Guy Data...okay.
+Reading Custom Link Sprite Data...okay.
+Reading Custom Subscreen Data...okay.
+Reading FF Script Data...okay.
+Reading SFX Data...okay.
+Reading Item Drop Sets...okay.
+Reading Favorite Combos...okay.
+Done.
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: new quest...
+
+Decrypting...okay.
+Opening...okay.
+Loading Quest: 1st.qst...
+
+Decrypting...okay.
+Opening...okay.
+Reading Header...okay.
+Made in ZQuest 250 Beta 29
+Reading Rules...okay.
+Reading Strings...okay.
+Reading Doors...okay.
+Reading DMaps...okay.
+Reading Misc. Data...okay.
+Reading Misc. Colors...okay.
+Reading Game Icons...okay.
+Reading Items...okay.
+Reading Weapons...okay.
+Reading Maps...okay.
+Reading Combos...okay.
+Reading Combo Aliases...okay.
+Reading Color Data...okay.
+Reading Tiles...okay.
+Reading Tunes...okay.
+Reading Cheat Codes...okay.
+Reading Init. Data...okay.
+Reading Custom Guy Data...okay.
+Reading Custom Link Sprite Data...okay.
+Reading Custom Subscreen Data...okay.
+Reading FF Script Data...okay.
+Reading SFX Data...okay.
+Reading Item Drop Sets...okay.
+Reading Favorite Combos...okay.
+Done.
+Trying to load /home/marisag/Downloads/Zelda Classic/zelda.nsf
+Removing timers. 
+Freeing Data: 
+Bitmaps... 
+Subscreens... 
+SFX... 
+Misc... 
+Script buffers... 
+Screen Data... 
+Deleting quest buffers... 
+Cleaning maps. 
+Cleaning tile buffers. 
+Cleaning misc. 
+Armageddon Games web site: http://www.armageddongames.com
+Zelda Classic web site: http://www.zeldaclassic.com
+Zelda Classic wiki: http://www.shardstorm.com/ZCwiki/
